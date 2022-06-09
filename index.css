@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url("https://st.depositphotos.com/1052036/2399/v/600/depositphotos_23997923-stock-illustration-wedding-knot.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2 {
+    font-family: 'Boogaloo', cursive;
+    font-size: 45px;
+}
